@@ -10,7 +10,7 @@
  
  int main(int argc, char **argv) {
      
-     printf("Cole Glanz\n");
+     printf("Cole Glanz!git\n");
      printf("Computer Engineering\n");
      
      return 0;
